@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<main>
+	<PageData>
+	<MainHeading><![CDATA[]]></MainHeading>
+		<SubHeading><![CDATA[11.23._Pricing Issues]]></SubHeading>
+		<PageText>
+			<pText><![CDATA[Access to the services of Sensor Cloud involves both the Sensor Service Provider (SSP) and Cloud Service Provider (CSP). However, both SSPs and CSPs have different customer’s management, services management and modes and methods of payments and pricing. So all this together will lead to a number of issues such as]]></pText>
+		</PageText>
+		<PageText>
+			<pText><![CDATA[<ol class="RomanLowerNumberClass"><li>How to set the price?</li><li>How the payment is to be made?</li><li>How the price is be distributed among different entities?</li></ol>]]></pText>
+		</PageText>
+		<PageText>
+			<pText><![CDATA[The growing demand for controlling and monitoring the environment and its applications results in the growth of a large number of devices while the cost of deployment and connecting them to heterogeneous network continues to drop. However, the interfaces, protocols, connections and so forth increase at exponential rate, thereby making it difficult and expensive for information technology (IT) people to integrate the devices (sensor devices) into the cloud world. To eradicate the complexity and cost associated with integrating the sensors into cloud or any highly distributed system, there exists emerging and existing standards from both domains. For example, embedded sensor and IT domains within a service-oriented sensor architecture (SOSA).]]></pText>
+		</PageText>
+		<PageText>
+			<pText><![CDATA[The service oriented paradigm can be extended to a sensor network and use the service oriented process parameter (like profiling sensors for web services), which helps in intelligence integration into the Internet. This solution when extended to Sensor Cloud would result in high availability and reliability. It was found that the energy consumption of sensor nodes reduced drastically when the data exchange is done among sensors into a heterogeneous network with gateway through the SPWS (Sensor Profiles for Web Services) as compared to traditional SOAP messages. It has been observed also that the cost of memory usage in sensor nodes remains constant with SPWS whereas it is increased with SOAP messages.]]></pText>
+		</PageText>
+		<PageText>
+			<pText><![CDATA[The entity which is most responsible for the cost of Sensor Cloud service model is the message exchanged among sensors into a heterogeneous network environment. Using SPWS, power consumption of sensor nodes as well as the memory usages in sensor nodes is reduced drastically. In the Sensor Cloud infrastructure, the cost of communication among sensors is more than the processing cost. Hence the reduction in power consumption and memory usage leads to less communication cost which also enables an energy efficient model of Sensor Cloud.]]></pText>
+		</PageText>
+	</PageData>
+</main>
+		

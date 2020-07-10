@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<main>
+	<PageData>
+	<MainHeading><![CDATA[]]></MainHeading>
+		<SubHeading><![CDATA[11.8._Multiservice Provisioning on Multiple Platforms]]></SubHeading>
+		<PageText>
+			<pText><![CDATA[<div class="BigImgClass" style="text-align:center"><img src="en\images\Fig11.7.png"></div>]]></pText>
+		</PageText>
+		<PageText>
+			<pText><![CDATA[Integrating the WSN into heterogeneous networks is a complex task. The reason behind this is the absence of standardized data exchange functions, which may support the participating sub-networks of heterogeneous network. Using XML in sensor networks encourages the interchangeability of different types of sensors and systems. Figure 11.7 shows XML encoded physical sensors into the Sensor Cloud.]]></pText>
+		</PageText>
+		<PageText>
+			<pText><![CDATA[The lower part of Figure 11.7 deals with the XML encoded physical sensors. The XML encoding defines some set of rules for these physical sensors such that it will be both human readable and machine readable with less intervention and will enable these to be implemented on several number of different platforms. XML enables documents to give physical sensor’s metadata, that is, the type of the physical sensors, its specifications, the accuracy or intensity of these physical sensors, the exact location and so forth. But sensor nodes have limited storage and power constraints, and conflict may occur while using the XML encoding. For this reason, the XML support should be based on efficient data binding techniques to preserve the time, space and energy by minimizing the XML overhead.]]></pText>
+		</PageText>
+		<PageText>
+			<pText><![CDATA[To access the sensor information by using the Web Service Description Language (WSDL) and structure data, multiple applications may access sensor information. But the key issue in using the web services on sensor nodes is energy and bandwidth overhead of structured data formats used in the web services. In heterogeneous sensor networks, integration is a complex task because there is an absence of standardized data exchange format between the heterogeneous systems and networks. XML has evolved to overcome this insufficiency by providing a standard data exchange format between heterogeneous network and systems. Because of the limited hardware resources within sensor networks, XML usage was not fully introduced earlier. But now XML usage in sensor networks is made applicable by introducing the XML template objects in an optimized manner. XML is basically a key feature towards the service-oriented sensor networks and a proper medium to support complex data management and heterogeneous sensor networks.]]></pText>
+		</PageText>
+		<PageText>
+			<pText><![CDATA[To enable the applications to communicate with each other and to provide remote access to the services offered by Sensor Cloud platform, web services are introduced. Web services mainly refer to access the services over Internet connection. It has WSDL (Web Service Description Language) definitions, which describe what the web service can do, how a web service can be used by client applications and where the web service is located. Simple Object Access Protocol (SOAP) messages are used to communicate with web services, and these SOAP messages are XML based that are transported over the Internet protocols like Simple Mail Transfer Protocol (SMTP), File Transfer Protocol (FTP) and Hyper Text Transfer Protocol (HTTP).]]></pText>
+		</PageText>
+	</PageData>
+</main>
+		

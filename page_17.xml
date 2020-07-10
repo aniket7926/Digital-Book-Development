@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<main>
+	<PageData>
+	<MainHeading><![CDATA[]]></MainHeading>
+		<SubHeading><![CDATA[11.17._Security and Privacy Support Issues]]></SubHeading>
+		<PageText>
+			<pText><![CDATA[There are fewer standards available to ensure the integrity of the data in response to change due to authorized transactions. The consumers need to know whether his/her data at cloud center is well encrypted or who supervises the encryption/decryption keys (i.e., the cloud vendor or customer himself). Private health data may become public due to fallacy or inaccuracy. A consumer’s privacy may be lost into cloud and sensor data or information uploaded into clouds may not be supervised correctly by user. The US WellPoint disclosed that 130,000 records of its consumers had leaked out and become available publicly over the Internet. So better privacy policies are demand of the time which can offer services themselves while maintaining the privacy.]]></pText>
+		</PageText>
+	</PageData>
+</main>
+		

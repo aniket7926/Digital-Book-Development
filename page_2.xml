@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<main>
+	<PageData>
+	<MainHeading><![CDATA[]]></MainHeading>
+		<SubHeading><![CDATA[11.2._Comparison with WSN]]></SubHeading>
+		<PageText>
+			<pText><![CDATA[In a traditional <span class="PageAudioClass" id="Audio_BTNID" url="en/Sound/Audio_1" headername="Audio">WSN</span>, there is only one single user. Data is aggregated and sent to the WSN user. At the device level, the device is dedicated to a single user. But in a sensor cloud, the benefits can be reaped by multiple users or applications. Data aggregation in sensor cloud is taken care by the sensor-cloud infrastructure. Nodes in sensor cloud can serve multiple applications. Figure 11.1 shows the comparison of WSN with sensor cloud. ]]></pText>
+		</PageText>
+		<PageText>
+			<pText><![CDATA[<div class="BigImgClass" style="text-align:center"><img src="en\images\Fig11.1.png"></div>]]></pText>
+		</PageText>
+		<PageText>
+			<pText><![CDATA[In a sensor cloud there is more than one actor and multiple roles. Various actors in Sensor Cloud are end users, sensor owner and Sensor Cloud Service Provider (SCSP). End users enjoy Sensor-as-a-Service (Se-aaS) through applications as per the requirements. The end users are unknown about what and which physical sensor is allocated to serve the application. Sensor owner plays a role from business perspective. They purchase physical sensor devices deployed over different geographical locations and lend these devices to the sensor cloud. Sensor Cloud Sensor Provider (SCSP) is a business actor. SCSP charges from the end users as per their usage of Se-aaS.]]></pText>
+		</PageText>
+		<PageText>
+			<pText><![CDATA[In traditional WSN, all attributes like ownership, deployment, redeployment, maintenances, overhead and usage are managed by the WSN users. In Sensor Cloud, the redeployment, maintenances and overhead are managed by SCSP while ownership and deployment are managed by sensor owner and usage by end users. Figure 11.2 shows a comparison of attributes in WSN with Sensor Cloud.]]></pText>
+		</PageText>
+		<PageText>
+			<pText><![CDATA[<div class="BigImgClass"><img src="en\images\Fig11.2.PNG"></div>]]></pText>
+		</PageText>
+	</PageData>
+</main>
+		

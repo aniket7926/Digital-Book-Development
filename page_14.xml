@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<main>
+	<PageData>
+	<MainHeading><![CDATA[]]></MainHeading>
+		<SubHeading><![CDATA[11.14._Event Processing and Management]]></SubHeading>
+		<PageText>
+			<pText><![CDATA[Sensor Cloud has to cope with very complex event processing and management issues such as the following.]]></pText>
+		</PageText>
+		<PageText>
+			<pText><![CDATA[<ol class="RomanLowerNumberClass"><li>How the events have to be synchronized that may come from different sources in different time because of delays in network?</li><li>How the event processing rules have to be changed without affecting the system?</li><li>How the messages and events of varying types are supported?</li><li>How to support the enormous numbers of events and its conditions in an optimal way?</li><li>How can we recognize the context (i.e., spatial, temporal, semantic) to its relevant situation detection?</li></ol>]]></pText>
+		</PageText>
+	</PageData>
+</main>
+		

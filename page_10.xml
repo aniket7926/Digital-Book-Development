@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<main>
+	<PageData>
+	<MainHeading><![CDATA[]]></MainHeading>
+		<SubHeading><![CDATA[11.10._Design Issues]]></SubHeading>
+		<PageText>
+			<pText><![CDATA[There are several issues while designing the system in real scenario like nursing home, health care, hospitals and so forth which require fault-tolerant and reliable continuous transfer of data from sensor devices to the server. For example, in a private health care, the patient may be out of coverage area from the smart phone gateway because of patients coming in and out frequently. This scenario would be more prone to connection failure between the server and smart phone (or any other display device, like PDA) and thus this scenario must be considered while designing such system in order to avoid accumulation of errors.]]></pText>
+		</PageText>
+	</PageData>
+</main>

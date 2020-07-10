@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<main>
+	<PageData>
+	<MainHeading><![CDATA[]]></MainHeading>
+		<SubHeading><![CDATA[11.27._Conclusion]]></SubHeading>
+		<PageText>
+			<pText><![CDATA[This Chapter gives a detailed explanation of the Sensor Cloud. The comparison with WSN, Sensor Cloud architecture, advantages of Sensor Cloud, Sensor Cloud service life cycle model and Sensor Cloud layered structure are well explained. Various Sensor Cloud applications and multiservice provisioning on multiple platforms are illustrated in detail. Finally issues and challenges in Sensor Cloud like design issues, storage issues, authorization issues, power (battery) issues, event processing and management, service level agreement (SLA) violation, need for efficient information dissemination, security and privacy support issues, real-time multimedia content processing and massive scaling, collective intelligence harvesting, energy efficiency issues, bandwidth limitation, network access management, pricing issues, interface standardization issues, maintenance issues and resource and hardware compatibility issues are lucidly explained.]]></pText>
+		</PageText>
+	</PageData>
+</main>
+		

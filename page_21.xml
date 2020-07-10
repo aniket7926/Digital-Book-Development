@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<main>
+	<PageData>
+	<MainHeading><![CDATA[]]></MainHeading>
+		<SubHeading><![CDATA[11.21._Bandwidth Limitation]]></SubHeading>
+		<PageText>
+			<pText><![CDATA[Bandwidth limitation is one of the current big challenges that have to be handled in Sensor Cloud system when the number of sensor devices and their cloud users increases dramatically. However, there is a number of optimal and efficient bandwidth allocation methods proposed, but to manage the bandwidth allocation with such a gigantic infrastructure consisting of huge device assets and cloud users, the task of allocating bandwidth to every devices and users becomes very difficult.]]></pText>
+		</PageText>
+	</PageData>
+</main>
+		

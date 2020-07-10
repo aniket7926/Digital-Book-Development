@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<main>
+	<PageData>
+	<MainHeading><![CDATA[]]></MainHeading>
+		<SubHeading><![CDATA[11.11._Storage Issues]]></SubHeading>
+		<PageText>
+			<pText><![CDATA[Some engineering issues like storage of data at server side and transferring data from phone to server must have to be considered. To tackle this, timestamps are sent with each data packet to assist in reconstruction of data on the server side. Most of the data processing is done at server end so the system must be designed to avoid the bursty processing due to multiple users connected simultaneously to the system. The system must be designed to accommodate multiple users to connect at the same time.]]></pText>
+		</PageText>
+		<PageText>
+			<pText><![CDATA[Storage issues can be tackled with the introduction of predictive storage concept. This concept of storage keeps it easily fit to the correlated behavior of the physical environment and builds an architecture that focuses the sensor data archival at some remote sensors of Sensor Cloud infrastructure. It also uses predictive caching at proxies.]]></pText>
+		</PageText>
+	</PageData>
+</main>
+		

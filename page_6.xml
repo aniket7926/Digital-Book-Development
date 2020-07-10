@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<main>
+	<PageData>
+	<MainHeading><![CDATA[]]></MainHeading>
+		<SubHeading><![CDATA[11.6._Sensor Cloud Layered Structure]]></SubHeading>
+		<PageText>
+			<pText><![CDATA[Figure 11.5 depicts the layered architecture of the Sensor Cloud platform, which is divided mainly into three layers: (1) User and application layers (2) Sensor Cloud and virtualization layers (3) Template creation and tangible sensor layers.]]></pText>
+		</PageText>
+		<PageText>
+			<pText><![CDATA[<div class="BigImgClass" style="text-align:center"><img src="en\images\Fig11.5.png"></div>]]></pText>
+		</PageText>
+		<PageText>
+			<pText><![CDATA[<b>Layer 1 -</b> This layer deals with the users and their relevant applications. Several users want to access the valuable sensor data from different OS platforms, such as mobile phones OS, Windows OS, or Mac OS for a variety of applications. This structure allows users of different platforms to access and utilize the sensor data without facing any problem because of the high availability of cloud infrastructure and storage. ]]></pText>
+		</PageText>
+		<PageText>
+			<pText><![CDATA[<b>Layer 2 -</b> This layer deals with virtualization of the physical sensors and resources in the cloud. The virtualization enables the provisioning of cloud-based sensor services and other IT resources remotely to the end-user without being worried about the sensor’s exact locations. The virtualized sensors are created by using the service templates automatically. Service templates are prepared by the service providers as service catalog and this catalog enables the creation of service instances automatically that are accessed by multiple users.]]></pText>
+		</PageText>
+		<PageText>
+			<pText><![CDATA[<b>Layer 3 -</b> This is the last layer which deals with the service template creation and service catalog definition layers in forming catalog menu. Physical sensors are located and retrieved from this layer. Since each physical sensor has its own control and data collection mechanism, standard mechanisms are defined and used to access sensors without concerning the differences among various physical sensors. Standard functions are defined to access the virtual sensors by the users. In Layer 2, Sensor Cloud infrastructure translates standard functions of virtual sensors into some specific functions for diverse physical sensors in Layer 3. Physical sensors are XML encoded that enable the services provided through these sensors to be utilized on various platforms without being worried to convert them onto several platforms.]]></pText>
+		</PageText>
+		<PageText>
+			<pText><![CDATA[Sensor Cloud provides a web-based aggregation platform for sensor data that is flexible enough to help in developing user-based applications. It allows users quick development and deployment of data processing applications and gives programming language flexibility in accordance to their needs.]]></pText>
+		</PageText>
+	</PageData>
+</main>
+		

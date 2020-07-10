@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<main>
+  <tableofcontent>Detailed Table of Contents</tableofcontent>
+  <MainBookName>Internet of Things</MainBookName>
+   <Topics>
+    <Content id="11" HeaderContant="Chapter 11. Sensor Cloud"><![CDATA[11.1._Introduction]]></Content>
+    <Path><![CDATA[page_1.html]]></Path>
+  </Topics> 
+  <Topics>
+    <Content HeaderContant=""><![CDATA[11.2._Comparison with WSN]]></Content>
+    <Path><![CDATA[page_2.html]]></Path>
+  </Topics>
+  <Topics>
+    <Content HeaderContant=""><![CDATA[11.3._Sensor Cloud Architecture]]></Content>
+    <Path><![CDATA[page_3.html]]></Path>
+  </Topics>
+  <Topics>
+    <Content HeaderContant=""><![CDATA[11.4._Advantages of Sensor Cloud]]></Content>
+    <Path><![CDATA[page_4.html]]></Path>
+  </Topics>
+  <Topics>
+    <Content HeaderContant=""><![CDATA[11.5._Sensor Cloud Service Life Cycle Model]]></Content>
+    <Path><![CDATA[page_5.html]]></Path>
+  </Topics>
+  <Topics>
+    <Content HeaderContant=""><![CDATA[11.6._Sensor Cloud Layered Structure]]></Content>
+    <Path><![CDATA[page_6.html]]></Path>
+  </Topics>
+  <Topics>
+    <Content HeaderContant=""><![CDATA[11.7._Sensor Cloud Applications]]></Content>
+    <Path><![CDATA[page_7.html]]></Path>
+  </Topics>
+  <Topics>
+    <Content HeaderContant=""><![CDATA[11.8._Multiservice Provisioning on Multiple Platforms]]></Content>
+    <Path><![CDATA[page_8.html]]></Path>
+  </Topics>
+  <Topics>
+    <Content HeaderContant=""><![CDATA[11.9._Issues and Challenges in Sensor Cloud]]></Content>
+    <Path><![CDATA[page_9.html]]></Path>
+  </Topics>
+  <Topics>
+    <Content HeaderContant=""><![CDATA[11.10._Design Issues]]></Content>
+    <Path><![CDATA[page_10.html]]></Path>
+  </Topics>
+  <Topics>
+    <Content HeaderContant=""><![CDATA[11.11._Storage Issues]]></Content>
+    <Path><![CDATA[page_11.html]]></Path>
+  </Topics>
+  <Topics>
+    <Content HeaderContant=""><![CDATA[11.12._Authorization Issues]]></Content>
+    <Path><![CDATA[page_12.html]]></Path>
+  </Topics>
+  <Topics>
+    <Content HeaderContant=""><![CDATA[11.13._Power (Battery) Issues]]></Content>
+    <Path><![CDATA[page_13.html]]></Path>
+  </Topics>
+  <Topics>
+    <Content HeaderContant=""><![CDATA[11.14._Event Processing and Management]]></Content>
+    <Path><![CDATA[page_14.html]]></Path>
+  </Topics>
+  <Topics>
+    <Content HeaderContant=""><![CDATA[11.15._Service Level Agreement (SLA) Violation]]></Content>
+    <Path><![CDATA[page_15.html]]></Path>
+  </Topics>
+  <Topics>
+    <Content HeaderContant=""><![CDATA[11.16._Need for Efficient Information Dissemination]]></Content>
+    <Path><![CDATA[page_16.html]]></Path>
+  </Topics>
+  <Topics>
+    <Content HeaderContant=""><![CDATA[11.17._Security and Privacy Support Issues]]></Content>
+    <Path><![CDATA[page_17.html]]></Path>
+  </Topics>
+  <Topics>
+    <Content HeaderContant=""><![CDATA[11.18._Real-Time Multimedia Content Processing and Massive Scaling]]></Content>
+    <Path><![CDATA[page_18.html]]></Path>
+  </Topics>
+  <Topics>
+    <Content HeaderContant=""><![CDATA[11.19._Collective Intelligence Harvesting]]></Content>
+    <Path><![CDATA[page_19.html]]></Path>
+  </Topics>
+  <Topics>
+    <Content HeaderContant=""><![CDATA[11.20._Energy Efficiency Issues]]></Content>
+    <Path><![CDATA[page_20.html]]></Path>
+  </Topics>
+  <Topics>
+    <Content HeaderContant=""><![CDATA[11.21._Bandwidth Limitation]]></Content>
+    <Path><![CDATA[page_21.html]]></Path>
+  </Topics>
+  <Topics>
+    <Content HeaderContant=""><![CDATA[11.22._Network Access Management]]></Content>
+    <Path><![CDATA[page_22.html]]></Path>
+  </Topics>
+  <Topics>
+    <Content HeaderContant=""><![CDATA[11.23._Pricing Issues]]></Content>
+    <Path><![CDATA[page_23.html]]></Path>
+  </Topics>
+  <Topics>
+    <Content HeaderContant=""><![CDATA[11.24._Interface Standardization Issues]]></Content>
+    <Path><![CDATA[page_24.html]]></Path>
+  </Topics>
+  <Topics>
+    <Content HeaderContant=""><![CDATA[11.25._Maintenance Issues]]></Content>
+    <Path><![CDATA[page_25.html]]></Path>
+  </Topics>
+  <Topics>
+    <Content HeaderContant=""><![CDATA[11.26._Resource and Hardware Compatibility Issues]]></Content>
+    <Path><![CDATA[page_26.html]]></Path>
+  </Topics>
+  <Topics>
+    <Content HeaderContant=""><![CDATA[11.27._Conclusion]]></Content>
+    <Path><![CDATA[page_27.html]]></Path>
+  </Topics>
+</main>

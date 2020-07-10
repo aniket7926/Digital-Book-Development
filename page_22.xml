@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<main>
+	<PageData>
+	<MainHeading><![CDATA[]]></MainHeading>
+		<SubHeading><![CDATA[11.22._Network Access Management]]></SubHeading>
+		<PageText>
+			<pText><![CDATA[There are various numbers of networks to deal with in Sensor Cloud architecture applications. So a proper and efficient access management scheme for these networks is needed because this will optimize the bandwidth usage and improve link performance.]]></pText>
+		</PageText>
+	</PageData>
+</main>
+		

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<main>
+	<PageData>
+	<MainHeading><![CDATA[]]></MainHeading>
+		<SubHeading><![CDATA[11.16._Need for Efficient Information Dissemination]]></SubHeading>
+		<PageText>
+			<pText><![CDATA[In Sensor Cloud, an efficient information dissemination mechanism is needed that can match the published events or sensor data to appropriate user’s applications. But there are some issues like maintaining flexibility in providing a powerful subscription schema, which may capture information about events, guaranteeing the scalability with respect to a number of subscribers and published events or sensor data. Since the data sets and their relevant access services are distributed geographically, the allocation of data storage and dissemination becomes critical challenges.]]></pText>
+		</PageText>
+	</PageData>
+</main>
+		

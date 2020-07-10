@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<main>
+	<PageData>
+	<MainHeading><![CDATA[]]></MainHeading>
+		<SubHeading><![CDATA[11.20._Energy Efficiency Issues]]></SubHeading>
+		<PageText>
+			<pText><![CDATA[The basic disadvantages of a WSN and cloud computing are almost the same and energy efficiency of sensor nodes is lost due to the limited storage and processing capacity of nodes. For example, a health monitoring using the textile sensors can work much better and give more accurate results. These textile sensors can be easily sewed and are even washable. Although the proposed system of textile sensors is performing well in the majority of aspects, the battery can last only 24 hours after continuous monitoring and data transmitting regarding user’s heartbeat rate, movement, respiratory conditions and so forth. The gathered accumulated data can then be visualized in charts using some web applications and the results are received at user end through an alert message remotely on user’s smart phone. But in order to extend system independency, energy efficiency of such systems (textile sensors and microcontroller based) is a primary issue that has to be handled.]]></pText>
+		</PageText>
+		<PageText>
+			<pText><![CDATA[Data caching mechanism can be used to reuse bygone sensor data for applications that are tolerant to time. For example, an application related to variant room temperature. If this bygone sensor data is used to satisfy the various requests for a common sensor data, the energy consumption will be reduced. Still more work is needed to overcome the energy consumption.]]></pText>
+		</PageText>
+		<PageText>
+			<pText><![CDATA[To improve the energy efficiency and memory usage in a Sensor Cloud infrastructure, there should be a middleware which can tackle the adverse situation in case of continuous and long duration monitoring of data. This can be done through the gateway that is acting as a middleware and collects the huge sensor data from sensor nodes. This middleware should be able to compress the sensor data to avoid the transmission load and then transmits it back to the gateway acting as a middleware on cloud side which in turn decompresses and stores it there. When the transmission overload reduces, the energy consumption of sensor nodes improves automatically due to less processing.]]></pText>
+		</PageText>
+	</PageData>
+</main>
+		

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<main>
+	<PageData>
+	<MainHeading><![CDATA[]]></MainHeading>
+		<SubHeading><![CDATA[11.25._Maintenance Issues]]></SubHeading>
+		<PageText>
+			<pText><![CDATA[In order to keep the end user’s loyalty, the cloud should cope with the service failure. For this a regular maintenance is needed and redundancy techniques should be implemented to ensure the smooth and continuous flow of services. This can be done by backing up the data regularly and by distributing their multiple data centers geographically across the world.]]></pText>
+		</PageText>
+	</PageData>
+</main>
+		

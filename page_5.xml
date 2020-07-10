@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<main>
+	<PageData>
+	<MainHeading><![CDATA[]]></MainHeading>
+		<SubHeading><![CDATA[11.5._Sensor Cloud Service Life Cycle Model]]></SubHeading>
+		<PageText>
+			<pText><![CDATA[The Sensor Cloud service life-cycle model is illustrated in this section. Figure 11.4 depicts the Sensor-Cloud service life cycle. The users of the sensors can select the appropriate service template and request the required service instances. These service instances are provided automatically and freely to the users, which can then be deleted quickly when they become useless. From a single service template, multiple numbers of service instances can be created. Service provider regulates the service templates and can add new service templates as and when required by a different number of users.]]></pText>
+		</PageText>
+		<PageText>
+			<pText><![CDATA[<div class="BigImgClass" style="text-align:center"><img src="en\images\Fig11.4.png"></div>]]></pText>
+		</PageText>
+		<PageText>
+			<pText><![CDATA[ShapeBefore creating the service instances within Sensor Cloud infrastructure, preparation phase is needed which includes (1) Preparing the IT resources (processors, storage, disk, memory etc.) (2) Preparing the physical sensor devices (3) Preparing the service templates.]]></pText>
+		</PageText>
+	</PageData>
+</main>

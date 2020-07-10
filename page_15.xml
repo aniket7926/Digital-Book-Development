@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<main>
+	<PageData>
+	<MainHeading><![CDATA[]]></MainHeading>
+		<SubHeading><![CDATA[11.15._Service Level Agreement (SLA) Violation]]></SubHeading>
+		<PageText>
+			<pText><![CDATA[Consumer’s dependency on cloud providers for their application’s computing needs (i.e. their processing, storage, and analysis of enormous sensor data) on demand may require a specific Quality of Service (QoS) to be maintained. But if cloud providers are unable to provide QoS on user’s demand even in the case of processing huge sensor data in critical environmental situations, it would result in SLA violation and cloud provider must be responsible for that. So, we need a reliable dynamic collaboration among cloud providers. But opting for the best combination of cloud providers in dynamic collaboration is a big challenge in terms of cost, time and discrepancy between providers and QoS.]]></pText>
+		</PageText>
+	</PageData>
+</main>
+		

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<main>
+	<PageData>
+	<MainHeading><![CDATA[]]></MainHeading>
+		<SubHeading><![CDATA[11.12._Authorization Issues]]></SubHeading>
+		<PageText>
+			<pText><![CDATA[A web-based user interface is used for doctors, patients, helpers, care-givers and so forth to inspect and analyze the patient’s health-related results remotely. Therefore, the system should offer different authorization roles for different types of users and authenticated via this web interface. This will enable the privacy to some extent by allowing the care givers to restrict them to the patients that he or she will take care of.]]></pText>
+		</PageText>
+	</PageData>
+</main>
+		

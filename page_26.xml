@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<main>
+	<PageData>
+	<MainHeading><![CDATA[]]></MainHeading>
+		<SubHeading><![CDATA[11.26._Resource and Hardware Compatibility Issues]]></SubHeading>
+		<PageText>
+			<pText><![CDATA[Hardware compatibility as well as software compatibility both can be solved in cloud computing environment by allowing the sharing of hardware or software resources or services. But there may be the case when sensor or some other resources being used are lost due to some calamity or severe weather condition. To handle these issues, there is an architecture called PRESTO architecture that enables users or clients to view the data in a single logical view which is distributed across several sensor proxies and remote sensors. This enables the users to view variability at several lossy levels and unreliable remote sensor network resources. The PRESTO also supports archival queries on data resources that enable the historical data query to prevent any unusual events to better understand them for future application scenarios.]]></pText>
+		</PageText>
+	</PageData>
+</main>
+		

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<main>
+	<PageData>
+	<MainHeading><![CDATA[]]></MainHeading>
+		<SubHeading><![CDATA[11.24._Interface Standardization Issues ]]></SubHeading>
+		<PageText>
+			<pText><![CDATA[Web interfaces currently provide the interface among Sensor Cloud users (may be smart phone users) and cloud. But web interface may cause overhead because the web interfaces are not specifically designed for smart phones or mobile devices. Also, there would be compatibility issues for web interface among devices and in this case signaling, standard protocol, and interface for interacting between Sensor Cloud users and the cloud would require seamless services for implementation. Thus, interoperability would be a big issue when the Sensor Cloud users need to access the services with cloud.]]></pText>
+		</PageText>
+	</PageData>
+</main>
+		
